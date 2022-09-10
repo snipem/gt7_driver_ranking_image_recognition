@@ -59,3 +59,9 @@ Gran Turismo 7 Driver Rating Tracker is not affiliated with Sony, PlayStation or
 * Provide me with uncompressed screenshots from the app of 
   * other driver ratings than B and I can add driver rating class detection.
   * A screenshot from PS4
+
+## Development Info
+
+### Fonts used for Driver Rating classes
+
+Seems to be Ateros Regular: https://www.myfonts.com/products/regular-ateros-19049
