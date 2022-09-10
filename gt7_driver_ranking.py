@@ -21,7 +21,6 @@ except:
     IN_PYTHONISTA = False
 
 if IN_PYTHONISTA:
-    print("pythonista")
     i = appex.get_image()
     picture_filepath = appex.get_file_path()
 else:
