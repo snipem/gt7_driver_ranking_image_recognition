@@ -10,7 +10,7 @@ In short:
 
 [Kudosprime](https://www.kudosprime.com) has a similar solution. [It's description](https://www.kudosprime.com/gt7/sport_tracker.php?id=84405) gave the idea for this script. But this script does not need a USB drive. You will only need Pythonista and the PlayStation App on your iOS device.
 
-The timestamp, value and max resolution of the driver rating data is stored in a CSV file in Pythonista's iCloud folder. 
+The timestamp, value and max resolution of the driver rating data is stored in a CSV file in Pythonista's iCloud folder. You may open this folder on a Mac for working with the data.
 
 Gran Turismo 7 Driver Rating Tracker is not affiliated with Sony, PlayStation or Gran Turismo.
 
